@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game, Software and Web Developer with and extended art and design background
 ----------------------------------------------------------------------------
 
-* 🌍  I'm based in Scotland, Glasgow
+* 🌍 🏴󠁧󠁢󠁳󠁣󠁴󠁿  Based in Scotland, Glasgow
+* GSA student 
 
 ### Skills
 <p align="left">
