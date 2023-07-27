@@ -5,7 +5,8 @@ Game, Software and Web Developer with and extended art and design background
 ----------------------------------------------------------------------------
 
 * 🌍  Based in Scotland, Glasgow
-* 🎓  GSA student 
+* 🎓  GSA student
+* 🌱  Currently working on my web development skills. Advancing from vanilla to React
 
 ### Skills
 <p align="left">
