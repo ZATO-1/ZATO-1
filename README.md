@@ -8,7 +8,7 @@ Game, Software and Web Developer with and extended art and design background
 * 🎓  GSA student
 * 🌱  Currently working on my web development skills. Advancing from vanilla to React
 
-You can check my personal website from my repositories until I get a domain and make it official!
+## You can check my personal website from my repositories until I get a domain and make it official!
 
 ### Skills
 <p align="left">
