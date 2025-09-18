@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Stefan Kilutz, I usually go by Stef or Zato
+Hi I'm Stefan Kilutz, I usually go by Stef or Zato
 =====================================================================================================================================
 
 Game, Software and Web Developer with and extended art and design background
