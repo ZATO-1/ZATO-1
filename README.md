@@ -4,7 +4,6 @@ Hi I'm Stefan Kilutz, I usually just go by Stef
 Game, Software and Web Developer with and extended art and design background
 ----------------------------------------------------------------------------
 
-*   Based in Scotland
 *   CURRENT PROJECTS:
 *   game dev "Bunker: Coldwell" and other indie games
 *   writing my first novel, which is part of the game mentioned above
