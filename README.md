@@ -1,4 +1,4 @@
-Hi I'm Stefan Kilutz, I usually go by Stef or Zato
+Hi I'm Stefan Kilutz, I usually just go by Stef 
 =====================================================================================================================================
 
 Game, Software and Web Developer with and extended art and design background
