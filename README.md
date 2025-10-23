@@ -6,8 +6,8 @@ Game, Software and Web Developer with and extended art and design background
 
 *   Based in Scotland
 *   CURRENT PROJECTS:
-*   game dev bunker and smaller indie games
-*   writing my first novel which is part of the game mentioned above
+*   game dev "Bunker: Coldwell" and other indie games
+*   writing my first novel, which is part of the game mentioned above
 *   web development skills. Advancing from static html to React
 *   BLS webcam translator to act like Duolingo for sign language
          
