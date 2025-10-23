@@ -6,12 +6,14 @@ Game, Software and Web Developer with and extended art and design background
 
 *   Based in Scotland
 *   Current projects:
-        web development skills. Advancing from static html to React 
-        game dev bunker and smaller indie games
-        writing my first novel which is part of the game mentioned above
-        BLS webcam translator to act like Duolingo for sign language 
+*   game dev bunker and smaller indie games
+*   writing my first novel which is part of the game mentioned above
+*   web development skills. Advancing from static html to React
+*   BLS webcam translator to act like Duolingo for sign language
+         
+        
 
-## You can check my personal website from my repositories until I get a domain and make it official!
+## You can check my author website from my here! [link]
 
 ### Skills
 <p align="left">
