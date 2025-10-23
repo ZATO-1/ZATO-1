@@ -13,7 +13,7 @@ Game, Software and Web Developer with and extended art and design background
          
         
 
-## You can check my author website from my here! [link]
+## You can check my author website here! [link]
 
 ### Skills
 <p align="left">
