@@ -5,7 +5,7 @@ Game, Software and Web Developer with and extended art and design background
 ----------------------------------------------------------------------------
 
 *   Based in Scotland
-*   Current projects:
+*   CURRENT PROJECTS:
 *   game dev bunker and smaller indie games
 *   writing my first novel which is part of the game mentioned above
 *   web development skills. Advancing from static html to React
