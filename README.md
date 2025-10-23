@@ -4,7 +4,7 @@ Hi I'm Stefan Kilutz, I usually go by Stef or Zato
 Game, Software and Web Developer with and extended art and design background
 ----------------------------------------------------------------------------
 
-*   Based in Scotland, Glasgow
+*   Based in Scotland
 *   GSA student
 *   Currently working on my web development skills. Advancing from vanilla to React
 
